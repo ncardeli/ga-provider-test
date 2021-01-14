@@ -1,4 +1,4 @@
-const measurementId = "G-DEHK1RGEKV";
+const measurementId = "G-4YKFNBSCKM";
 
 const win = window;
 
